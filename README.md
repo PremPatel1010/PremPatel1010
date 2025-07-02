@@ -37,9 +37,9 @@
 
 ### 🔗 Let's Connect
 
-- 📫 Mail me at: **your-email@example.com**
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio.com) *(if you have one)*
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- 📫 Mail me at: **premrpatel2007@gmail.com**
+- 🌐 Portfolio: [https://prempatel1010.netlify.app/](https://prempatel1010.netlify.app/) *(if you have one)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/prempatel1010/]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/prempatel1010/))
 
 ---
 
