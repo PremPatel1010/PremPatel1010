@@ -26,20 +26,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark" width="48%" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 - 📫 Mail me at: **premrpatel2007@gmail.com**
-- 🌐 Portfolio: [https://prempatel1010.netlify.app/](https://prempatel1010.netlify.app/) *(if you have one)*
-- 💼 LinkedIn: [https://www.linkedin.com/in/prempatel1010/]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/prempatel1010/))
+- 🌐 Portfolio: [https://prempatel1010.netlify.app/](https://prempatel1010.netlify.app/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/prempatel1010/](https://www.linkedin.com/in/prempatel1010/)
 
 ---
 
