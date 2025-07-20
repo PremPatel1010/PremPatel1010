@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prem Patel</h1>
-<h3 align="center">Full Stack Developer | AI Builder | Founder @ Azzor.ai</h3>
+<h3 align="center">Full Stack Developer | AI Builder</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building **AI-powered assistants, smart tools, and real-time web apps**
-- 🧠 Exploring **LLMs**, **Ollama**, and building AI systems with real-world utility
-- 💼 Founder of **Azzor.ai** — crafting the future with intelligent automation
 - 💻 Tech Stack: **MERN** | **LLMs** | **Socket.io** | **Tailwind CSS** | **LangChain**
 - ⚡ Fun Fact: I believe a good product is built with clarity, speed, and purpose
 
